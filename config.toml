@@ -1,8 +1,8 @@
-baseURL = "https://example.com"
+baseURL = "https://merker.xyz"
 languageCode = "en-us"
 title = "lanyo"
 theme = "yinyang"
-DefaultContentLanguage = "en"
+DefaultContentLanguage = "cn"
 
 [author]
   name = "lanyo"
