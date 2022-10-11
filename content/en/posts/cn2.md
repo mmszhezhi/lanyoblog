@@ -1,9 +1,8 @@
 ---
 title: 赤壁赋
-date: 1082-07-16
+date: 2018-03-04
 categories: ['诗歌']
-author: 苏轼
-draft: true
+draft: false
 ---
 
 ## 原文

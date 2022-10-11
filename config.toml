@@ -6,7 +6,7 @@ DefaultContentLanguage = "cn"
 
 [author]
   name = "lanyo"
-  homepage = "https://joway.io/"
+  homepage = "https://meker.xyz/"
 
 [languages]
   [languages.en]
@@ -29,4 +29,4 @@ link = "/index.xml"
 
 [[params.socials]]
 name = "About"
-link = "https://joway.io"
+link = "https://meker.xyz"
