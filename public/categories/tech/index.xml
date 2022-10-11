@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>tech on lanyo</title>
+    <link>https://meker.xyz/categories/tech/</link>
+    <description>Recent content in tech on lanyo</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 16 Jul 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://meker.xyz/categories/tech/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>BT网络</title>
+      <link>https://meker.xyz/posts/bt/</link>
+      <pubDate>Sat, 16 Jul 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://meker.xyz/posts/bt/</guid>
+      <description>tody is your day ff</description>
+    </item>
+    
+    <item>
+      <title>ECC</title>
+      <link>https://meker.xyz/posts/ecc/</link>
+      <pubDate>Sat, 16 Jul 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://meker.xyz/posts/ecc/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>RSA</title>
+      <link>https://meker.xyz/posts/rsa/</link>
+      <pubDate>Sat, 16 Jul 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://meker.xyz/posts/rsa/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
