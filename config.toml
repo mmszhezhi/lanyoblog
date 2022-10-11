@@ -19,7 +19,7 @@ DefaultContentLanguage = "cn"
     weight = 1
 
 [params]
-disqus = "joway" # disqus account name
+disqus = "meker" # disqus account name
 extraHead = ''
 mainSections = ["posts"]
 
